@@ -7,17 +7,35 @@ Nationality: German
 
 ## Employment history 
 
-### Scrum Master - mytaxi Hamburg Germany
+### Scrum Master
 
-### Agile Craftsman - Jimdo Hamburg Germany 
+* mytaxi 
+* Hamburg Germany
 
-### Chief Productivity Officer  - Intelliad Munich Germany
+### Agile Craftsman 
 
-### Head of Shopping Comparsion Development - Chip Xonio Online Gmbh Munich Germany
+* Jimdo
+*  Hamburg Germany 
 
-### Developer - Mayflower GmbH Munich Germany
+### Chief Productivity Officer  
 
-### Developer - Vitrado GmbH Munich Germany
+* Intelliad 
+* Munich Germany
+
+### Head of Shopping Comparsion Development 
+
+* Chip Xonio Online Gmbh 
+* Munich Germany
+
+### PHP/JS Developer
+
+* Mayflower GmbH 
+* Munich Germany
+
+### PHP Developer
+
+* Vitrado GmbH 
+* Munich Germany
 
 ## Educational qualification
 
