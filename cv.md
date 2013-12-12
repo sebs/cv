@@ -1,11 +1,11 @@
 # CV of Sebastian Schürmann 
 
-## Personal details
+* Sebastian Schürmann 
+* Holstenring 14, 22763 Hamburg - Germany
+* Date of birth: 10.07.1976
+* Nationality: German
 
-Date of birth: 10.07.1976
-Nationality: German
-
-Address: Holstenring 14, 22763 Hamburg - Germany 
+* Xing: https://www.xing.com/profiles/Sebastian_Schuermann
 
 ## Employment history 
 
