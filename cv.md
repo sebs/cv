@@ -6,13 +6,20 @@
 * Nationality: German
 
 * Xing: https://www.xing.com/profiles/Sebastian_Schuermann
+* LinkedIn: 
 
 ## Employment history 
 
+### Self Employed Coaching & Development
+
+* Software Development Node.js
+* Training of agile software development practices
+* Coaching for technical teams and processes
+	
 ### Scrum Master
 
 * mytaxi / Intelligent Apps GmbH 
-* 11-2012 - now()
+* 2012 - 2014
 * Hamburg Germany
 
 ### Agile Craftsman 
