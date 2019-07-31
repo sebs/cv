@@ -1,7 +1,7 @@
 # CV of Sebastian Schürmann 
 
 * Sebastian Schürmann 
-* Holstenring 14, 22763 Hamburg - Germany
+* Hamburg - Germany
 * Date of birth: 10.07.1976
 * Nationality: German
 
@@ -10,15 +10,17 @@
 
 ## Employment history 
 
-### Self Employed Coaching & Development
+### Self Employed Software Development
 
-* Software Development Node.js
-* Training of agile software development practices
-* Coaching for technical teams and processes
-	
+* Development and Architecture for distributed systems and IOT
+* Training of software development practices
+
+### Self Employed 
+
+
 ### Scrum Master
 
-* mytaxi / Intelligent Apps GmbH 
+* Mytaxi / Intelligent Apps GmbH (today FreeNow)
 * 2012 - 2014
 * Hamburg Germany
 
